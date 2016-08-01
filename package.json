@@ -1,0 +1,15 @@
+{
+  "name": "agllike",
+  "version": "1.0.0",
+  "description": "this is a lib like angular data binding",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "data",
+    "binding"
+  ],
+  "author": "lin sijing",
+  "license": "ISC"
+}
